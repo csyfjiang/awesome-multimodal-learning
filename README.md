@@ -8,7 +8,7 @@
  
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
 ![GitHub stars](https://img.shields.io/github/stars/csyfjiang/awesome-multimodal-learning.svg?color=red&style=for-the-badge) ![GitHub forks](https://img.shields.io/github/forks/csyfjiang/awesome-multimodal-learning.svg?color=yellow&style=for-the-badge) ![GitHub activity](https://img.shields.io/github/last-commit/csyfjiang/awesome-multimodal-learning?style=for-the-badge) 
-![Visitors](https://img.shields.io/badge/visitors-100-brightgreen) 
+![](https://visitorbadge.glitch.me/badge?page_id=csyfjiang/awesome-multimodal-learning&label=VISITORS&labelColor=brightgreen&countColor=blue)
 [![Star History Chart](https://api.star-history.com/svg?repos=csyfjiang/awesome-multimodal-learning&type=Date)](https://star-history.com/#csyfjiang/awesome-multimodal-learning&Date)
 </p>
 
