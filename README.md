@@ -11,6 +11,7 @@
 <a href="#">
       <img src="https://api.visitorbadge.io/api/VisitorHit?user=csyfjiang&repo=awesome-multimodal-learning&countColor=%237B1E7A"/>
 </a>
+
 [![Star History Chart](https://api.star-history.com/svg?repos=csyfjiang/awesome-multimodal-learning&type=Date)](https://star-history.com/#csyfjiang/awesome-multimodal-learning&Date)
 </p>
 
@@ -38,11 +39,16 @@ This is a comprehensive list of multimodal representation learning, pre-training
 ### <span id="head21"> *Survey Paper* </span>
 * <span id="head-survey"> **[DL Survey credits from Zhou's collections](https://github.com/Yutong-Zhou-cv/Awesome-Survey-Papers)**  </span>
 
-#### <span id="head211"> *Pre-training | training strategy* </span>
+#### <span id="head211"> Pre-training | training strategy </span>
 
-* (TPAMI 2023, arXiv 2024) **Self-Supervised Multimodal Learning: A Survey**, First Author et al. [[Paper](URL)] [[Code](URL)] [[Project](URL)] <br/>
-* (Conference/Journal Year) **Title**, First Author et al. [[Paper](URL)] [[Code](URL)] [[Project](URL)] <br/>
-* (Conference/Journal Year) **Title**, First Author et al. [[Paper](URL)] [[Code](URL)] [[Project](URL)] <br/>
+* (TPAMI 2023, arXiv 2024) [💬==SSL==]**Self-Supervised Multimodal Learning: A Survey**, Zong et al. [[Paper](https://arxiv.org/abs/2304.01008)] [[Code](https://github.com/ys-zong/awesome-self-supervised-multimodal-learning)];
+
+* (KBS 2022)[💬==Meta-Learning==] **Multimodality in Meta-Learning: A Comprehensive Survey**, Yao Ma et al. [[Paper](https://arxiv.org/abs/2109.13576v2)]  [[Project](URL)]&#x20;
+
+* (Info. Fus. 2021)[💬==Co-Learning==] **Multimodal Co-learning: Challenges, Applications with Datasets, Recent Advances and Future Directions**, Rahate et al. [[Paper](https://arxiv.org/abs/2107.13782v3)]
+
+* (TPAMI 2024)[💬==SSL==] **A Survey on Self-supervised Learning: Algorithms, Applications, and Future Trends**, Gui et al. [[Paper](https://arxiv.org/abs/2301.05712v4)] [[Code](https://github.com/guijiejie/SSL)]
+
 
 #### <span id="head212"> *Not Classified* </span>
 
