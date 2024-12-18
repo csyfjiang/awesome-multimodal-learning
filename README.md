@@ -7,7 +7,9 @@
 <p>
  
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
-![GitHub stars](https://img.shields.io/github/stars/csyfjiang/awesome-multimodal-learning.svg?color=red&style=for-the-badge) ![GitHub forks](https://img.shields.io/github/forks/csyfjiang/awesome-multimodal-learning.svg?color=yellow&style=for-the-badge) ![GitHub activity](https://img.shields.io/github/last-commit/csyfjiang/awesome-multimodal-learning?style=for-the-badge) ![Visitors](https://visitor-badge.glitch.me/badge?page_id=csyfjiang/awesome-multimodal-learning) [![Star History Chart](https://api.star-history.com/svg?repos=csyfjiang/awesome-multimodal-learning&type=Date)](https://star-history.com/#csyfjiang/awesome-multimodal-learning&Date)
+![GitHub stars](https://img.shields.io/github/stars/csyfjiang/awesome-multimodal-learning.svg?color=red&style=for-the-badge) ![GitHub forks](https://img.shields.io/github/forks/csyfjiang/awesome-multimodal-learning.svg?color=yellow&style=for-the-badge) ![GitHub activity](https://img.shields.io/github/last-commit/csyfjiang/awesome-multimodal-learning?style=for-the-badge) 
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=csyfjiang/awesome-multimodal-learning) 
+[![Star History Chart](https://api.star-history.com/svg?repos=csyfjiang/awesome-multimodal-learning&type=Date)](https://star-history.com/#csyfjiang/awesome-multimodal-learning&Date)
 </p>
 
 A collection of resources on multimodal learning research.
